@@ -2,6 +2,10 @@
 My name is Carl. I'm 29 years old and lives in Stockholm. I'm specialized in embedded development and love to make things blink!
 
 ## Newly finished projects
+### Soteria Systems
+A lightweight home security system with keypad, rfid scanner, lcd screen, motion sensor and LEDs indicating status.
+https://github.com/lafftale1999/SoteriaSystems
+
 ### WSI Summer Internship
 I've finished an internship at WSI and worked on an IoT system.  
 https://github.com/lafftale1999/WSI_summer_internship_2025
