@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Carl. I'm 29 years old and lives in Stockholm, Sweden, and currently studying embedded development. Ever since I got an LED blink on the Arduino I've been stuck on embedded. At the moment I'm improving my skills in electrical engineering and deepening my understanding for components, circuits and design.
+My name is Carl. I'm 29 years old and lives in Stockholm. I'm specialized in embedded development and love to make things blink!
 
 ## Newly finished projects
 ### WSI Summer Internship
