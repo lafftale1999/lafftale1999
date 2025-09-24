@@ -28,14 +28,21 @@ Developed together with [`Maksym`](https://github.com/Zar000) and [`Johann`](htt
 ---
 
 ### [Soteria Systems](https://github.com/lafftale1999/SoteriaSystems)  
-A compact home security system featuring a keypad, RFID scanner, LCD screen, motion sensor, and status-indicating LEDs.  
+A compact home security system featuring:
+- Keypad, RFID scanner, LCD and LEDs for user interactions.
+- Alarm on / off logic based on server responses.
+- Motion sensor for detecting movements when armed.
+- Wi-Fi connect/disconnect logic
 Part of a larger ecosystem: [Summer Code Alarm System](https://github.com/lafftale1999/summerCodeAlarmSystem)
 
 ---
 
 ### [WSI Summer Internship](https://github.com/lafftale1999/WSI_summer_internship_2025)  
-Developed an **IoT system** as part of my internship at WSI.  
-Gained hands-on experience with real-world embedded development and integration.
+Developed an **IoT system** as part of my internship at WSI and gained hands-on experience with real-world embedded development and integration.
+- IoT device to measure temperature, humidity and airpressure. (Raspberry Pi Pico W)
+- IoT device to display measurements. (ESP32 with LCD screen)
+- MQTT protocol between devices and backend server.
+- mTLS communication implemented on Raspberry Pi Pico W
 
 ---
 
