@@ -16,6 +16,14 @@ I’m driven by curiosity and the challenge of making complex systems both **rel
 
 ## 🚀 Projects
 
+### [Lynks Safe Connections](https://github.com/lafftale1999/lynks_safe_connections)
+An end-to-end video meeting system with a C++ backend and a WebRTC media client.
+* Asynchronous C++ backend for authentication, session management and meeting orchestration
+* Janus WebRTC (VideoRoom / SFU) for real-time media routing and participant discovery
+* WebRTC client in Python using GStreamer for publishing and subscribing to live audio/video streams
+
+---
+
 ### [Pluto Payments](https://github.com/lafftale1999/pluto_payments)  
 A lightweight credit card system with hardware, backend, and frontend components.  
 **My contribution:**  
