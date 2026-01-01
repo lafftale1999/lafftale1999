@@ -55,7 +55,7 @@ Developed an **IoT system** as part of my internship at WSI and gained hands-on 
 ---
 
 ## 📊 Languages & Tools
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafftale1999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lafftale1999)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
